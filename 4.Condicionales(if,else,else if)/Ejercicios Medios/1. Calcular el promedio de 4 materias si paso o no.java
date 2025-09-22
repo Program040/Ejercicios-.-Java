@@ -1,0 +1,23 @@
+
+public class Promedio
+{
+  public static void main(String[] args) 
+  {
+    int español = 6;
+    int historia = 7;
+    int ingles = 5;
+    int arte = 8;
+    int promedio = 0;
+
+    promedio = (español + historia + ingles + arte) / 4;
+
+    if(promedio >= 6)
+    {
+      System.out.println("Aprobado con " + promedio);
+    }
+    else
+    {
+      System.out.println("Reprobado con " + promedio);
+    }
+  }
+}
