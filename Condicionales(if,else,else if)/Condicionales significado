@@ -1,0 +1,6 @@
+
+if → “Si esto es verdadero, haz esto”
+
+else if → “Si no se cumplió lo anterior, prueba esta otra condición”
+
+else → “Si ninguna condición se cumplió, haz esto”
