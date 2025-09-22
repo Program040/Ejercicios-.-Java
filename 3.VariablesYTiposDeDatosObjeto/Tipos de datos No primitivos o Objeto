@@ -1,0 +1,9 @@
+
+  Tipo                                 Ejemplo	                                 Descripción breve
+	
+ String                             	"Hola"	                                   Cadena de texto
+ Array	                             {1, 2, 3}	                        Conjunto de elementos del mismo tipo
+ Class	                           Persona, Auto	                    Estructura personalizada con atributos
+ Interface	                    Runnable, Comparable	                      Contrato de comportamiento
+ Enum	                             DIA.LUNES	                             Lista de constantes definidas
+List, Map, Set              	  ArrayList, HashMap	                         Colecciones avanzadas
