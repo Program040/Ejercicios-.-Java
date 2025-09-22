@@ -1,0 +1,11 @@
+
+Tipo	              Descripción	                    Ejemplo
+
+byte	            Entero de 8 bits	                  127
+short           	Entero de 16 bits	                 32000
+int	              Entero de 32 bits	                100000
+long	            Entero de 64 bits	                999999L
+float            	Decimal de 32 bits	               3.14f
+double	          Decimal de 64 bits              	3.14159
+char	            Carácter Unicode                  	'A'
+boolean	          Verdadero o falso	                 true
